@@ -1,11 +1,22 @@
 // ---------- Type hero paragraph ----------
 var i = 0;
-var text = `I am a front-end web developer with skills in HTML, CSS, Sass, JavaScript, jQuery and React.
-I am passionate about mobile web design and providing an engaging user experience on all platforms.
-Continual education and keeping up with the latest technology trends are both very important to me.
-It isn’t uncommon to find me coding through the weekends at my favorite coffee shop. Check out my
-latest projects at github.com/hadaracobas.
-I look forward to applying my previous work experience in business to a new career in tech.`;
+var text = `I am a junior front end web developer. In
+recent years, I have learned more and more
+about the world of web development. I
+started with drag-and-drop websites,
+continued to WordPress sites, and after
+deciding that this is the career I want for
+myself in life, I started to enrole in web
+development studies.
+If I had to answer the question why I would
+want to work as a web developer, the
+answer is for the feeling I have when I
+manage to solve a problem after facing a
+challenge.
+I am looking to work in a company where I
+can challenge myself and develop my
+skills.
+`;
 var speed = 65;
 
 function type() {
